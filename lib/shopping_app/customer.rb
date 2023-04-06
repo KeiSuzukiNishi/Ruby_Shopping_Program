@@ -10,3 +10,4 @@ class Customer < User
   end
 
 end
+
